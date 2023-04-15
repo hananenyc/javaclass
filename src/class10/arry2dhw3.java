@@ -20,8 +20,7 @@ public class arry2dhw3 {
                 System.out.print(string+" ");
             }
             System.out.println();
-
-
+            
         }
     }
 }
