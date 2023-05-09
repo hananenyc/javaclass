@@ -1,13 +1,22 @@
 package class1;
 
 public class VariableDemo2 {
-    public static void main(String[] args) {
-        int age=80;
-        age=81;// give java to update age
-        System.out.println(age);
-        String president="trump";
-        president="biden";
-        System.out.println(president);
-
+    //public class VariablesDemo {
+     public static void main(String[] args) {
+    //        /*
+    //        we are telling the computer to create a box or container
+    //        in which we are storing a number 20;
+    //         */
+         int age=20;
+         System.out.println(age);
+    //
+    //        /*
+    //        Reserve a box of Type String call it name
+    //        and store Asghar inside it
+    //         */
+    //        String name="Asghar";
+    //        System.out.println(name);
+    //
+      }
     }
-}
+

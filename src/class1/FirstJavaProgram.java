@@ -1,15 +1,19 @@
 package class1;
 
 public class FirstJavaProgram {
-    public static void main(String[] args) {
-        int[] number = {45, 78, 12, 67, 55, 89, 23, 88};
-        for (int i : number) ;
-        System.out.println(number + " ");
-
-        for (int i = 0; i <= 88; i++) {
-            System.out.print(number[i] + " ");
-        }
-    }
+    //package class1;
+//public class FirstJavaProgram {
+//    /* To create the main method just like below once
+//    we can write main all in lowercase and can hit the
+//    enter button or the tab button, and it will auto expand
+//     */
+//    public static void main(String[] args) {
+//        /*
+//        write "sout" and hit enter or the tab button
+//        and it will write the below code automatically for you
+//         */
+//        // below code is a command to print Hello world on the console
+//        System.out.println("Hello World");
+//    }
+//}
 }
-
-
